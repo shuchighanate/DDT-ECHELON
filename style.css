@@ -161,6 +161,10 @@ p {
     background: rgba(0, 0, 0, 0.158);
 }
 
+select option{
+ background:  rgba(12, 40, 73, 0.733);
+}
+
 .container .mb-3 select {
     width: 100%;
     height: 10%;

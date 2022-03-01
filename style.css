@@ -161,6 +161,17 @@ p {
     background: rgba(0, 0, 0, 0.158);
 }
 
+select ul li.option{
+  backgroun-color:rgba(12, 40, 73, 0.433);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.158), 0px -1px 0 rgba(0, 0, 0, 0.158) inset;
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.158), 0px -1px 0 rgba(0, 0, 0, 0.158) inset;
+  -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.158), 0px -1px 0 rgba(0, 0, 0, 0.158) inset;
+}
+
+select ul li.option:hover{
+ backgroun-color:rgba(12, 40, 73, 0.433);
+}
+
 select option{
  background:  rgba(12, 40, 73, 0.433);
  width: 100%;
